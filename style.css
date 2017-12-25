@@ -648,13 +648,11 @@ input:checked + .slider.round:before {
 .profile-block{
 	width: 100%;
 	background-color: #fff;
-	min-height: 116px;
-	max-height: 116px;
 	
 }
 .profile-pic{
-	width: 100px;
-	height: 100px;
+	width: 100%;
+	
 	margin:8px auto;
 	border-radius: 50%;
 	overflow: hidden;
@@ -662,10 +660,11 @@ input:checked + .slider.round:before {
 }
 .profile-pic img{
 	display: block;
-	width: 90%;
-	margin: 5px auto;
+	width: 100%;
+	padding:5px;
 	border-radius: 50%;
 }
+
 
 .profile-tags{
 	width: 100%;
