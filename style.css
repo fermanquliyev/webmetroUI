@@ -144,8 +144,8 @@ main{
 	font-weight: normal;
 }
 .scroll-bar{
-	width: 20px;
-	margin: 0 10px;
+	
+	
 	height: 150px;
 	overflow-y: scroll;
 	background: transparent;
@@ -752,9 +752,7 @@ border-color: transparent #eccb64 transparent transparent;
   .tab-menu {
     margin-top: 20px;
   }
-  .scroll-bar{
-  	margin:0 30px;
-  }
+  
   .profile-block{
   	margin-top: 20px;
   }
