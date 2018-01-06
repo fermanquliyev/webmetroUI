@@ -715,7 +715,7 @@ input:checked + .slider.round:before {
 .basic:hover{
 	transform: scale(1.08);
 	z-index: 10;
-	position: absolute;
+	position: relative;
 }
 .basic:hover .triangle{
 	top:0px;
